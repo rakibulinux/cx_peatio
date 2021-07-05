@@ -1,16 +1,16 @@
 {
   "info": {
-    "title": "Peatio User API v2",
-    "description": "API for Peatio application.",
+    "title": "CX User API v2",
+    "description": "API for CX application.",
     "contact": {
-      "name": "peatio.tech",
-      "email": "hello@peatio.tech",
-      "url": "https://www.peatio.tech"
+      "name": "cx.finance",
+      "email": "tech@cx.finance",
+      "url": "https://www.cx.finance"
     },
     "license": {
-      "url": "https://github.com/rubykube/peatio/blob/master/LICENSE.md"
+      "url": "N/A"
     },
-    "version": "2.3.12"
+    "version": "2.6.25"
   },
   "swagger": "2.0",
   "produces": [
